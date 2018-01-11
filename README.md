@@ -1,4 +1,7 @@
-# gennoe
+# gennoe [![CircleCI](https://circleci.com/gh/wkaczurba/gennoe.svg?style=svg)](https://circleci.com/gh/wkaczurba/gennoe) [![codecov](https://codecov.io/gh/wkaczurba/gennoe/branch/master/graph/badge.svg)](https://codecov.io/gh/wkaczurba/gennoe)
+
+
+
 
 This is a very basic repo for generation of random characters.
 The main purpose of this repo is to try out https://jitpack.io/ .
